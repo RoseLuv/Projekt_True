@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y6E2Do/Vrx5L47z2gQxN+iqRnLcISwI91W5WHHeVMjDhVyTNHxGqqi7OBi0PhsIKdEZ/tr78WYepV7a57iWlgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marek\\Desktop\\Programovanie\\Projects\\Projekt\\Projekt\\Projekt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marek\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
